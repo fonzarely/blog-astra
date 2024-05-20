@@ -1,11 +1,11 @@
 ---
 title: Mali 2005
-pubDate: "2020-02-22"
+pubDate: '2020-02-22'
 published: true
-heroImage: "/src/content/blog/2020-02-22-Mali-2005/dscn2835.jpg"
-tags: ["photo"]
-keywords: ["photo", "street photo", "photo de rue", "Mali", "voyage"]
-description: "..."
+heroImage: '/src/content/blog/2020-02-22-Mali-2005/dscn2835.jpg'
+tags: ['photo']
+keywords: ['photo', 'street photo', 'photo de rue', 'Mali', 'voyage']
+description: '...'
 ---
 
 ![Photo](./dscn2524.jpg)

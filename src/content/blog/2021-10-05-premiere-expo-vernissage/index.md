@@ -1,11 +1,11 @@
 ---
 title: Première exposition je t’invite au vernissage
-pubDate: "2021-10-05"
+pubDate: '2021-10-05'
 published: false
-photo: "./DSCF9077.jpg"
-tags: ["photo"]
-keywords: ["photo", "street photo", "exposition", "vernissage"]
-description: "..."
+photo: './DSCF9077.jpg'
+tags: ['photo']
+keywords: ['photo', 'street photo', 'exposition', 'vernissage']
+description: '...'
 ---
 
 J’ose enfin exposer mes photos de rue !

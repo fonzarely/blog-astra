@@ -1,11 +1,11 @@
 ---
 title: 1er prix - De la graine à la terrasse
-pubDate: "2021-09-10"
+pubDate: '2021-09-10'
 published: true
-heroImage: "/src/content/blog/2021-09-10-concours-de-la-graine-a-la-terrasse/P1250102.jpg"
-tags: ["photo"]
-keywords: ["photo", "concours photo"]
-description: "..."
+heroImage: '/src/content/blog/2021-09-10-concours-de-la-graine-a-la-terrasse/P1250102.jpg'
+tags: ['photo']
+keywords: ['photo', 'concours photo']
+description: '...'
 ---
 
 C'est avec une grande joie que j'apprends que ma photo proposée au concours De la Graine à la Terrasse par Artisans du monde a obtenu le premier prix.

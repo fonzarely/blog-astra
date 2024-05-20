@@ -1,10 +1,10 @@
 ---
 title: 2018 en 365 photos, partie 3
-pubDate: "2019-01-19"
+pubDate: '2019-01-19'
 published: true
-heroImage: "/src/content/blog/2019-01-19-2018-en-365-photos-partie-3/DSCF6191.jpg"
-tags: ["photo"]
-keywords: ["photo", "street photo", "photo de rue"]
+heroImage: '/src/content/blog/2019-01-19-2018-en-365-photos-partie-3/DSCF6191.jpg'
+tags: ['photo']
+keywords: ['photo', 'street photo', 'photo de rue']
 description: Série sur le theme **Aléatoire**.
 ---
 

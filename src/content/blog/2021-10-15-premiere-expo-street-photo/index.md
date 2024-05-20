@@ -1,10 +1,10 @@
 ---
 title: Première exposition street photo
-pubDate: "2021-10-15"
+pubDate: '2021-10-15'
 published: false
-heroImage: "/src/content/blog/2021-10-15-premiere-expo-street-photo/behrouze-2021-10-19-002.jpeg"
-tags: ["photo"]
-description: "..."
+heroImage: '/src/content/blog/2021-10-15-premiere-expo-street-photo/behrouze-2021-10-19-002.jpeg'
+tags: ['photo']
+description: '...'
 ---
 
 J’ose enfin exposer mes photos de rue !  

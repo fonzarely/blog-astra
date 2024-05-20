@@ -1,9 +1,9 @@
 ---
 title: 2018 en 365 photos, partie 2
-pubDate: "2019-01-12"
+pubDate: '2019-01-12'
 published: true
-heroImage: "/src/content/blog/2019-01-12-2018-en-365-photos-partie-2/DSCF2395.jpg"
-description: "Série sur le theme **Bleu de la mer**."
+heroImage: '/src/content/blog/2019-01-12-2018-en-365-photos-partie-2/DSCF2395.jpg'
+description: 'Série sur le theme **Bleu de la mer**.'
 ---
 
 Série sur le theme **Bleu de la mer**.

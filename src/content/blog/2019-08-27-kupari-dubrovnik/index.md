@@ -1,11 +1,11 @@
 ---
 title: Kupari Dubrovnik
-pubDate: "2019-08-27"
+pubDate: '2019-08-27'
 published: true
-heroImage: "/src/content/blog/2019-08-27-kupari-dubrovnik/DSCF5169.jpg"
-tags: ["photo"]
-keywords: ["photo", "urbex", "kupari dubrovnik", "voyage"]
-description: "..."
+heroImage: '/src/content/blog/2019-08-27-kupari-dubrovnik/DSCF5169.jpg'
+tags: ['photo']
+keywords: ['photo', 'urbex', 'kupari dubrovnik', 'voyage']
+description: '...'
 ---
 
 ![Photo](./DSCF5142.jpg)

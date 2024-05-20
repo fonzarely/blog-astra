@@ -1,11 +1,11 @@
 ---
 title: 2018 en 365 photos, partie 4
-pubDate: "2019-01-24"
+pubDate: '2019-01-24'
 published: true
-heroImage: "/src/content/blog/2019-01-24-2018-en-365-photos-partie-4/DSCF4589.jpg"
-tags: ["photo"]
-keywords: ["photo", "street photo", "photo de rue"]
-description: "Série sur le theme **Instants couleur**."
+heroImage: '/src/content/blog/2019-01-24-2018-en-365-photos-partie-4/DSCF4589.jpg'
+tags: ['photo']
+keywords: ['photo', 'street photo', 'photo de rue']
+description: 'Série sur le theme **Instants couleur**.'
 ---
 
 Série sur le theme **Instants couleur**.
