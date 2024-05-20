@@ -5,6 +5,7 @@ published: true
 photo: "./DSCF5169.jpg"
 tags: ["photo"]
 keywords: ["photo", "urbex", "kupari dubrovnik", "voyage"]
+description: ___
 ---
 
 ![Photo](./DSCF5142.jpg)

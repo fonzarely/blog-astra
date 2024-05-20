@@ -5,6 +5,7 @@ published: true
 photo: "./DSCF2395.jpg"
 tags: ["photo"]
 keywords: ["photo", "street photo", "photo de rue"]
+description: ___
 ---
 
 Série sur le theme **Bleu de la mer**.

@@ -5,6 +5,7 @@ published: true
 photo: "./dscn2835.jpg"
 tags: ["photo"]
 keywords: ["photo", "street photo", "photo de rue", "Mali", "voyage"]
+description: ___
 ---
 
 ![Photo](./dscn2524.jpg)

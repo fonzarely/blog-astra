@@ -5,6 +5,7 @@ published: false
 photo: "./DSCF9077.jpg"
 tags: ["photo"]
 keywords: ["photo", "street photo", "exposition", "vernissage"]
+description: ___
 ---
 
 J’ose enfin exposer mes photos de rue !

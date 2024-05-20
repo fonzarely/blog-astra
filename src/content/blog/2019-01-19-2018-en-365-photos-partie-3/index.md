@@ -5,6 +5,7 @@ published: true
 photo: "./DSCF6191.jpg"
 tags: ["photo"]
 keywords: ["photo", "street photo", "photo de rue"]
+description: ___
 ---
 
 Série sur le theme **Aléatoire**.
