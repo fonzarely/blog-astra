@@ -2,7 +2,7 @@
 title: 1er prix - De la graine à la terrasse
 pubDate: "2021-09-10"
 published: true
-photo: "./P1250102.jpg"
+heroImage: "/src/content/blog/2021-09-10-concours-de-la-graine-a-la-terrasse/P1250102.jpg"
 tags: ["photo"]
 keywords: ["photo", "concours photo"]
 description: "..."
