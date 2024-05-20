@@ -1,10 +1,9 @@
 ---
 title: Première exposition street photo
 pubDate: "2021-10-15"
-published: false
-photo: "./behrouze-2021-10-19-002.jpeg"
+published: true
+photo: "/src/content/blog/2021-10-15-premiere-expo-street-photo/behrouze-2021-10-19-002.jpeg"
 tags: ["photo"]
-keywords: ["photo", "street photo", "exposition", "vernissage"]
 description: "..."
 ---
 
