@@ -5,7 +5,7 @@ published: true
 photo: "./P1250102.jpg"
 tags: ["photo"]
 keywords: ["photo", "concours photo"]
-description: ___
+description: "..."
 ---
 
 C'est avec une grande joie que j'apprends que ma photo proposée au concours De la Graine à la Terrasse par Artisans du monde a obtenu le premier prix.

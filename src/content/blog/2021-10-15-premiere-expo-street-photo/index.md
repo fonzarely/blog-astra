@@ -5,7 +5,7 @@ published: false
 photo: "./behrouze-2021-10-19-002.jpeg"
 tags: ["photo"]
 keywords: ["photo", "street photo", "exposition", "vernissage"]
-description: ___
+description: "..."
 ---
 
 J’ose enfin exposer mes photos de rue !  

@@ -3,27 +3,8 @@ title: 2018 en 365 photos, partie 1
 description: Au 1er Janvier 2018 je me suis donné comme challenge de publier une photo du jour chaque jour de l’année sur mon blog.
 pubDate: "2019-01-05"
 published: true
-heroImage: "/content/blog/2019-01-05-2018-en-365-photos/DSCF8759.jpg"
-#{/* tags: ['photo'] */}
-#{/* keywords: ['photo', 'street photo', 'photo de rue', 'black and white photo', 'photo noir et blanc'] */}
-authors:
-  - fabien
+heroImage: "/src/content/blog/2019-01-05-2018-en-365-photos/DSCF8759.jpg"
 ---
-
-<!-- ---
-
-photo: "./DSCF8759.jpg"
-tags: ["photo"]
-keywords:
-[
-"photo",
-"street photo",
-"photo de rue",
-"black and white photo",
-"photo noir et blanc",
-]
----
- -->
 
 Au 1er Janvier 2018 je me suis donné comme challenge de publier une photo du jour chaque jour de l’année sur mon blog.
 

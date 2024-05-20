@@ -2,10 +2,8 @@
 title: 2018 en 365 photos, partie 2
 pubDate: "2019-01-12"
 published: true
-photo: "./DSCF2395.jpg"
-tags: ["photo"]
-keywords: ["photo", "street photo", "photo de rue"]
-description: ___
+photo: "/src/content/blog/2019-01-12-2018-en-365-photos-partie-2/DSCF2395.jpg"
+description: "Série sur le theme **Bleu de la mer**."
 ---
 
 Série sur le theme **Bleu de la mer**.

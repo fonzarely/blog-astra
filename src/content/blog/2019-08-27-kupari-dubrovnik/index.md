@@ -2,10 +2,10 @@
 title: Kupari Dubrovnik
 pubDate: "2019-08-27"
 published: true
-photo: "./DSCF5169.jpg"
+photo: "/src/content/blog/2019-08-27-kupari-dubrovnik/DSCF5169.jpg"
 tags: ["photo"]
 keywords: ["photo", "urbex", "kupari dubrovnik", "voyage"]
-description: ___
+description: "..."
 ---
 
 ![Photo](./DSCF5142.jpg)
